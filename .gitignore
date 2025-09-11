@@ -1,0 +1,45 @@
+# macOS
+.DS_Store
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+.conda/
+
+# Packaging
+build/
+dist/
+.eggs/
+*.egg-info/
+
+# Testing/coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Type checkers
+.mypy_cache/
+.pytype/
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Others
+*.swp
+*.swo 
